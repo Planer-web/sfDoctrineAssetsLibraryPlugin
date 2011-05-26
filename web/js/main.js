@@ -18,7 +18,13 @@ sfAssetsLibrary_Engine.prototype = {
     if (asset_input)
     {
       eval('var rel = ' + asset_input.getAttribute('rel'));
-      var fname = asset_input.previousSibling.form.name;
+      var fname;
+      for(var index in document.forms) {
+        if (document.forms[index] === asset_input.previousSibling.form) {
+          fname = index;
+          break;
+        }
+      }
       sfAssetsLibrary.addEvent(asset_input, 'click', function(e) {
         sfAssetsLibrary.openWindow({
           form_name: fname,
