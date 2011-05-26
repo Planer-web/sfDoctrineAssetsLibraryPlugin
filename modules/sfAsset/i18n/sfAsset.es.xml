@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file orginal="global" source-language="es" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source>Asset Library</source>
+        <target>Biblioteca de Archivos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tools</source>
+        <target>Herramientas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Folder management</source>
+        <target>Administración de Carpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a subfolder</source>
+        <target>Agregar una subcarpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Upload a file here</source>
+        <target>Subir un archivo aquí</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Parent directory</source>
+        <target>Carpeta padre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rename folder</source>
+        <target>Renombrar carpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Move folder</source>
+        <target>Mover carpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete folder</source>
+        <target>Borrar carpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create</source>
+        <target>Crear</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Agregar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sort order</source>
+        <target>Ordernar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sorted by name</source>
+        <target>Ordenado por nombre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sorted by date</source>
+        <target>Ordenado por fecha</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sort by name</source>
+        <target>Ordenar por nombre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sort by date</source>
+        <target>Ordenar por fecha</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Buscar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Folder id</source>
+        <target>Carpeta Id</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Filename</source>
+        <target>Nombre de Archivo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Author</source>
+        <target>Autor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copyright</source>
+        <target>Copyright</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Created at</source>
+        <target>Creado el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Descripción</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Asset edition</source>
+        <target>Edición de Archivo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Path:</source>
+        <target>Ruta:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Media upload</source>
+        <target>Subir Archivo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>File:</source>
+        <target>Archivo:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Parent folder</source>
+        <target>Carpeta padre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Metadata</source>
+        <target>Meta-Información</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Title:</source>
+        <target>Título:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Type</source>
+        <target>Tipo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search results</source>
+        <target>Buscar resultados</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Back to the list</source>
+        <target>Regresar al listado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copyright: %copyright%</source>
+        <target>Copyright: %copyright%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Author: %author%</source>
+        <target>Autor: %author%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Created on %date%</source>
+        <target>Creado el %date%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>&lt; Previous page</source>
+        <target>&lt; Página anterior</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page %number% on %total%</source>
+        <target>Página %number% de %total%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next page &gt;</source>
+        <target>Siguiente página &gt;</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Folder statistics</source>
+        <target>Estádisticas de carpeta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]One subfolder|(1,+Inf)%nb% subfolders</source>
+        <target>[1]Una subcarpeta|(1,+Inf)%nb% subcarpetas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]One file, %weight% KiB|(1,+Inf]%nb% files, %weight% KiB</source>
+        <target>[1]Un archivo, %weight% KiB|(1,+Inf]%nb% archivos, %weight% KiB</target>
+      </trans-unit>
+      <trans-unit>
+        <source>See full-size version</source>
+        <target>Ver versión de tamaño completo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%weight% KiB</source>
+        <target>%weight% KiB</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Created on %date%</source>
+        <target>Creado el %date%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rename</source>
+        <target>Renombrar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Move</source>
+        <target>Mover</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Replace</source>
+        <target>Reemplazar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Borrar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>¿Está seguro?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The file has been replaced</source>
+        <target>El archivo fue reemplazado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The file has been moved</source>
+        <target>El archivo fue movido</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A problem occurred: The file has not been moved</source>
+        <target>A ocurrido un problema: El archivo no fue movido</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The file has been renamed</source>
+        <target>El arhcivo fue renombrado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A problem occurred: The file has not been renamed</source>
+        <target>Ocurrió un problema: El archivo no fue renombrado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A problem occurred during while saving "%file%"</source>
+        <target>Ocurrió un problema mientras se guardaba el archivo "%file%"</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Asset "%asset%" not found</source>
+        <target>Archivo "%asset%" no encontrado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Filetype "%type%" not allowed</source>
+        <target>Tipo de archivo "%type%" no es válido</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The target folder "%folder%" already contains an asset named "%name%". The asset has not been moved.</source>
+        <target>La carpeta de destino "%folder%" ya contiene un archivo llamado "%name%". El archivo no fue movido.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The filename "%name%" contains incorrect characters. The asset has not be altered.</source>
+        <target>El archivo "%name%" contiene caracteres incorrectos. El archivo no fue modificado.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Some or all of the file operations failed. It is possible that the moved asset or its thumbnails are missing.</source>
+        <target>Algunas o todas las operaciones de archivos fallaron. Es posible qie el archivo fue movido o su miniatura no existe.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The root folder cannot be moved</source>
+        <target>La carpeta raíz no puede ser movida</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The target folder "%folder%" already contains a folder named "%name%". The folder has not been moved.</source>
+        <target>La carpeta de destino "%folder%" ya contiene una carpta llamada "%name%". El carpeta no fue movida.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The target folder cannot be a subfolder of moved folder. The folder has not been moved.</source>
+        <target>La carpeta de destino no puede ser movida a una subcarpeta. La carpeta no fue movida.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The parent folder already contains a folder named "%name%". The folder has not been renamed.</source>
+        <target>La carpeta padre ya contiene un carpeta llamada "%name%". La carpeta no fue renombrada.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The target folder name "%name%" contains incorrect characters. The folder has not be renamed.</source>
+        <target>La carpeta de destino llamada "%name%" contiene caracteres incorrectos. La carpeta no fue renombrada.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Impossible to delete folder "%name%"</source>
+        <target>Imposible borrar la carpeta "%name%"</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Impossible to create folder "%name%"</source>
+        <target>Imposible crear la carpeta "%name%"</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mass upload</source>
+        <target>Subir en masa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mass upload files</source>
+        <target>Subir archivos en masa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Place under:</source>
+        <target>Colocar bajo:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>File %nb%:</source>
+        <target>Archivo %nb%:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Files successfully uploaded</source>
+        <target>Archivo subidos exitosamente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Back to the list</source>
+        <target>Regresar al listado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Image size:</source>
+        <target>Tamaño imagen:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Original</source>
+        <target>Original</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Large thumbnail</source>
+        <target>Miniatura grande</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Small thumbnail</source>
+        <target>Miniatura pequeña</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frame image</source>
+        <target>Marco imagen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Display description</source>
+        <target>Mostrar descripción</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Image align:</source>
+        <target>Aliniación de imagen:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Width (%):</source>
+        <target>Ancho (%):</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Insert</source>
+        <target>Insertar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your modifications have been saved</source>
+        <target>Sus modificaciones fueron guardadas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>save</source>
+        <target>guardar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Insert Image</source>
+        <target>Insertar Imagen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
