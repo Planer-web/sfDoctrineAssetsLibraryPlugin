@@ -55,6 +55,9 @@ sfAssetsLibrary_Engine.prototype = {
     if (img)
     {
       img.src = thumbUrl;
+      if ('function' === typeof($)) {
+        $(img).trigger('changed', [thumbUrl, id]);
+      }
     }
   },
 
